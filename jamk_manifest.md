@@ -8,4 +8,4 @@ Challenge Factory is a concept for working as a summer trainee for the selected 
 
 
 
-[target_url=https://github.com/JAMK-IT/challenge_factory_2016/wiki]
+[target_url=https://jamk-it.github.com/TTVW0110-challenge-factory]
