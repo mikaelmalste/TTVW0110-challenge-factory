@@ -4,7 +4,7 @@
 
 CH001 - Tee tikusta asiaa!
 
-### Tilaaja ()
+### Tilaajasta
 
 * Mauiri Mäkelä - Tsektisout Oy
 * http://tsektisuout.com
