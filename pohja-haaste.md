@@ -1,5 +1,6 @@
 ### Haasteen nimi ja koodi (Name of Challenge)
 
+![](https://openclipart.org/image/300px/svg_to_png/221589/3D-Problem-Solution-Maze-.png&disposition=attachment)
 
 CH001 - Tee tikusta asiaa!
 
