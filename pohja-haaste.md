@@ -6,8 +6,12 @@ CH001 - Tee tikusta asiaa!
 
 ### Tilaaja ()
 
+* Mauiri Mäkelä - Tsektisout Oy
+* http://tsektisuout.com
 
 ### Kuvaus (Brief Description)
+
+
 
 
 
@@ -18,6 +22,8 @@ CH001 - Tee tikusta asiaa!
 * xxx-123456
 
 ### Tarvittava osaaminen
+
+* Tiimin koko on 1 (Lead developer)+3 (Factory members)
 
 * Web-tekniika?
 * Verkkotekniika?
